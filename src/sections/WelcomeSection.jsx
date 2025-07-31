@@ -12,7 +12,7 @@ const WelcomeSection = () => {
           You're the Most Special Person in My World
         </h2>
         <p className="text-lg text-amber-700 leading-relaxed mb-6">
-          Today is <span className='font-bold'>National Girlfriend Day</span>, but honestly, every day with you feels like a celebration. 
+          Today is <span className='font-bold'>National Girlfriend's Day</span>, but honestly, every day with you feels like a celebration. 
           I created this little space on the internet just for you, bubby, filled with all the love I have in my heart.
         </p>
         <div className="flex justify-center">
